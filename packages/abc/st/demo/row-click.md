@@ -36,7 +36,7 @@ export class DemoComponent {
       title: '',
       buttons: [
         {
-          text: 'btn',
+          text: 'cah',
           type: 'link',
           click: e => console.log('btn click', e),
         },
